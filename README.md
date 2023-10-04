@@ -1,2 +1,2 @@
-# wf3-javascript
+# Exercice Javascript
 Dépôt de code javascript
